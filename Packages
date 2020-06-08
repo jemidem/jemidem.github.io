@@ -1,0 +1,14 @@
+Package: com.laughingquoll.prysm
+Version: 1.7.5
+Architecture: iphoneos-arm
+Maintainer: jemidem <jemidem@gmail.com>
+Depends: CCSupport, libcolorpicker-nepeta, libsparkapplist, PrefixUI
+Filename: /com.laughingquoll.prysm_1.7.5_iphoneos-arm.deb
+Size: 798924
+MD5sum: 1617d8ca43ed4fbca7a233ada492c8b3
+SHA1: 747108af8a4ec3e8df79a954a3454dd4d7ad274b
+SHA256: cddac034ec2dc7c3a4c015edd5b8956c8ee0d335fea7304150b56ef2fc5cce50
+Section: Cydia tweak
+Description:  Tweak
+Author: jemidem <jemidem@gmail.com>
+Name: Prysm
